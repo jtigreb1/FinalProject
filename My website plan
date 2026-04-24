@@ -1,0 +1,86 @@
+Website Plan – Final Project
+1. Planned Pages (Site Map Draft)
+Homepage – index.html
+Using the Code Editor – code-editor.html
+HTML Semantic Elements – semantic-html.html
+CSS Layout & Responsive Design – css-layout.html
+Accessibility – accessibility.html
+Ethical Issues – ethics.html
+Code Validation – validation.html
+Using AI (ChatGPT) – ai.html
+2. Content Details for Each Page
+
+Homepage (index.html)
+This page is basically the intro to everything. I’ll explain what the site is about and what I learned this semester. It’ll also have links to all the other pages so it’s easy to click around.
+
+Using the Code Editor (code-editor.html)
+Here I’ll talk about the code editor I used (like VS Code) and how it helped me. I’ll include things like features, shortcuts, and how I used it for my projects.
+
+HTML Semantic Elements (semantic-html.html)
+This page will go over semantic HTML tags like header, section, and footer. I’ll explain what they do and why they make websites more organized and easier to read.
+
+CSS Layout & Responsive Design (css-layout.html)
+On this page I’ll explain how I used CSS to design my pages. I’ll talk about layouts like Flexbox/Grid and how I made my site look good on phones and computers.
+
+Accessibility (accessibility.html)
+This page is about making websites easier for everyone to use. I’ll include things like alt text, headings, and using colors that are easy to see.
+
+Ethical Issues (ethics.html)
+Here I’ll talk about important topics like privacy and being fair when making websites. It’s about doing the right thing as a web developer.
+
+Code Validation (validation.html)
+This page will show how I checked my code for errors. I’ll explain how I fixed problems and made sure everything worked correctly.
+
+Using AI (ChatGPT) (ai.html)
+This page will explain how I used AI tools like ChatGPT during the semester. I’ll show how it helped me understand things better and solve problems faster.
+
+3. Planned Media & Assets
+Images: screenshots of my code and examples
+Icons: simple icons to make the site look nicer
+Videos (optional): maybe one if I find a good one
+Tables or Lists: for organizing info
+Forms: maybe a contact form for feedback
+4. Navigation Plan
+
+Navigation menu labels:
+
+Home
+Code Editor
+HTML
+CSS
+Accessibility
+Ethics
+Validation
+AI
+
+Footer links (optional):
+
+GitHub
+Contact
+Resources
+5. Accessibility Considerations
+What images will need alt text?
+Pretty much all images will have alt text so nothing is confusing.
+How will you structure your headings (H1, H2, H3)?
+One H1 per page, then H2s for sections and H3s if I need more detail.
+Will you use color combinations that meet contrast guidelines?
+☑ Yes
+6. File and Folder Plan
+/FinalProject
+   index.html
+   /pages
+       code-editor.html
+       semantic-html.html
+       css-layout.html
+       accessibility.html
+       ethics.html
+       validation.html
+       ai.html
+   /css
+       style.css
+   /img
+       images
+   websiteplan.md
+7. Code Validation
+
+I’ll use online validators to check my HTML and CSS. If something’s wrong, I’ll fix it and test again until everything looks good.
